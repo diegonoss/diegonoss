@@ -27,7 +27,6 @@ html{
     color: rgba(255,255,255,.8)!important;
 }
 .hero h1{
-    font-size: 40pt;
     font-weight: bolder;
     text-transform: uppercase;
     overflow-wrap: break-word!important;
@@ -45,13 +44,17 @@ html{
 .titulo{
     font-weight: bolder;    
 }
-#quienes-somos{
-    background-image: url('bg-seccion.png');
+#quienes-somos,#noticias,#somos-uptaeb{
     background-repeat: no-repeat;
+}
+#quienes-somos{
+    background-image: url('bg-seccion.png');    
     background-position: right;
 }
+#noticias{
+    background-image: url('bg-seccion.png');    
+    background-position: right;}
 #somos-uptaeb{
-    background-image: url('bg-seccion2.png');
-    background-repeat: no-repeat;
+    background-image: url('bg-seccion2.png');    
     background-position: center;
 }
