@@ -5,7 +5,7 @@ html{
     max-height: 500px!important;
 }
 .hero{
-    background: url("slider-1.png") no-repeat;
+    background: url("../img/slider-1.png") no-repeat;
     background-size: cover;
     width: 100%;
 }
@@ -48,13 +48,13 @@ html{
     background-repeat: no-repeat;
 }
 #quienes-somos{
-    background-image: url('bg-seccion3.png');    
+    background-image: url('../img/bg-seccion3.png');    
     background-position: left;
 }
 #noticias{
-    background-image: url('bg-seccion.png');    
+    background-image: url('../img/bg-seccion.png');    
     background-position: right;}
 #somos-uptaeb{
-    background-image: url('bg-seccion2.png');    
+    background-image: url('../img/bg-seccion2.png');    
     background-position: center;
 }
